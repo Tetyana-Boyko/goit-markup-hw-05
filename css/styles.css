@@ -737,7 +737,7 @@ body {
   .review-form-own-checkbox {
   border: none;
   background-color: #404bbf;
-  border-bottom: #404bbf;
+  /* border-bottom: #404bbf; */
   fill: #f4f4fd;
 }
 
