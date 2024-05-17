@@ -591,6 +591,8 @@ body {
   justify-content: center;
   align-items: center;
   position: absolute;
+  width: 24px;
+  height: 24px;
   top: 24px;
   right: 24px;
   padding: 0;
@@ -607,6 +609,7 @@ body {
 
 .modal-close-btn:hover,
 .modal-close-btn:focus {
+  border: none
   fill: #ffffff;
   background-color: #404bbf;
 }
@@ -625,7 +628,7 @@ body {
 }
 
 .review-form-field-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .review-form-field-label {
